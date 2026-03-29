@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtpcmg Panel Cointegrating Polynomial Regressions: Group-Mean & Pooled FM-OLS (v1.0.0) Use xtpcmg With STATA 19
